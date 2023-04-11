@@ -19,7 +19,7 @@
 
 ### - Sobre mim 😊
 <hr>
-Tenho 22 anos e sou de Duque de Caxias - RJ, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-Busco me tornar um desenvolvedor full-stack e buscar oportunidades de júnior/estágio. Estou amando desenvolver, mesmo que seja algo simples ou dificil no momento, é o que eu sempre quis desde que descobri essa área e também adoro desafios e pensar fora da caixinha...
+<p style="font-size: 17px">Tenho 22 anos e sou de Duque de Caxias - RJ, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+Busco me tornar um desenvolvedor full-stack e buscar oportunidades de júnior/estágio. Estou amando desenvolver, mesmo que seja algo simples ou dificil no momento, é o que eu sempre quis desde que descobri essa área e também adoro desafios e pensar fora da caixinha...</p>
 
 
